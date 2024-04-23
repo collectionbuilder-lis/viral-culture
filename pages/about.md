@@ -31,6 +31,10 @@ This collection draws attention to the diffuse coalitional nature of various dir
 
 **Affect in the Archive**
 
+Since the 1990s, there has been a shift in cultural theory and criticism towards a focus on affect. Now known as 'the affective turn,' scholars in the humanities and social sciences have increasingly focused on studying emotions and feelings as legitimate objects inquiry. These approaches intertwine theories concerning subjectivity, the body, critical analysis, and political theories in innovative ways. While affect theory remains a dynamic field, it underscores the importance of understanding how emotions and feelings shape human experiences and societal dynamics. At its core, affect is the force connecting the body and sensation with the external world.
+
+Projects within the affective turn invoke the language and metaphor of 'the archive' while focusing on issues that pertain to archival concerns in social justice paradigms, such as representation, identity, bodies, accountability, collective memory, and community empowerment. While these projects may not directly engage with archives as traditionally defined in archival studies, they provide valuable insights, theoretical frameworks, and approaches that can contribute significantly to discussions within the archival field and foster interdisciplinary exchange.
+
 **Sources and Additional Resources:**
 
 Cheng, J.-F., Juhasz, A., & Shahani, N. (Eds.). (2020). _AIDS and the distribution of crises_. Duke University Press.
