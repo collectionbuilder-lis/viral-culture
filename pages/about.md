@@ -7,7 +7,7 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-{% include feature/jumbotron.html objectid="https://www.metmuseum.org/-/media/images/perspectives/2022/6/act-up/02_demonstration_1520x522.jpg?w=1520&sc_lang=en&hash=8AF330D7FBB1CE455FB2C771C3389B5C" %}
+{% include feature/jumbotron.html objectid="https://digital.library.umkc.edu/sites/default/files/19366-Service%20File.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;Sample Items;Critical Context" %}
 
