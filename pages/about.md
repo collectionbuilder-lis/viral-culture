@@ -39,7 +39,7 @@ Projects within the affective turn invoke the language and metaphor of ‘the ar
 
 Cheng, J.-F., Juhasz, A., & Shahani, N. (Eds.). (2020). _AIDS and the distribution of crises_. Duke University Press.
 
-Cifor, M. (2016). "Affecting relations: Introducing affect theory to archival discourse." _Archival Science_, _16_(1), 7–31. https://doi.org/10.1007/s10502-015-9261-5
+Cifor, M. (2016). "Affecting relations: Introducing affect theory to archival discourse." _Archival Science_, _16_(1), 7–31. (https://doi.org/10.1007/s10502-015-9261-5)
 
 Cifor, M. (2022). _Viral cultures: Activist archiving in the age of AIDS_. University of Minnesota Press.
 
