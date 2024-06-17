@@ -13,11 +13,11 @@ credits: true
 
 ## About the Collection
 
-“Viral Cultures: AIDS Ephemera, Art, and Activism" is a curated digital collection of records from disparate archives centered around protest ephemera, art, and social movements during the AIDS epidemic. The aim purpose this collection is to provide a focus on the perspectives these movements across the South, Southwest, and Midwest regions of the United States.
+“Viral Cultures: AIDS Ephemera, Art, and Activism” is a curated digital collection of records from disparate archives centered around protest ephemera, art, and social movements during the AIDS epidemic. The purpose of this collection is to provide a focus on the perspectives of these movements across the South, Southwest, and Midwest regions of the United States.
 
-Sample items were selected from the [Atlanta Journal-Constitution Photographs](https://digitalcollections.library.gsu.edu/digital/collection/ajc), the [Archives Center of the National Museum of American History](https://americanhistory.si.edu/about/centers/archives), the [AIDS Resource Center of Wisconsin](https://uwm.edu/lib-collections/arcw/), the [Linda Wilson Collection](https://libweb.umkc.edu/glama/archival-collections/collectionsmoreinfo/glama-wilson), and the [State Historical Society of Missouri](https://shsmo.org/). The collection features posters, pamphlets, banners, photographs, buttons, and pins to show the various forms protest.
+Sample items were selected from the [Atlanta Journal-Constitution Photographs](https://digitalcollections.library.gsu.edu/digital/collection/ajc), the [Archives Center of the National Museum of American History](https://americanhistory.si.edu/about/centers/archives), the [AIDS Resource Center of Wisconsin](https://uwm.edu/lib-collections/arcw/), the [Linda Wilson Collection](https://libweb.umkc.edu/glama/archival-collections/collectionsmoreinfo/glama-wilson), the [Resource Center LGBT Collection of the UNT Libraries](https://digital.library.unt.edu/explore/collections/LGBTC/) and the [State Historical Society of Missouri](https://shsmo.org/). The collection features posters, pamphlets, banners, photographs, buttons, and pins to show the various forms of protest.
 
-The anticipated users of this collection would include researchers interested in queer history, protest, feminism, and the AIDS crisis; teachers using the collection as tool for relevant courses; queer community members interested in learning about historic events related to their own affinity groups.
+The anticipated users of this collection would include researchers interested in queer history, protest, feminism, and the AIDS crisis; teachers using the collection as a tool for relevant courses; queer community members interested in learning about historic events related to their own affinity groups.
 
 ## Sample Items
 
@@ -31,13 +31,15 @@ This collection draws attention to the diffuse coalitional nature of various dir
 
 **Affect in the Archive**
 
-Since the 1990s, there has been a shift in cultural theory and criticism towards a focus on affect. Now known as 'the affective turn,' scholars in the humanities and social sciences have increasingly focused on studying emotions and feelings as legitimate objects inquiry. These approaches intertwine theories concerning subjectivity, the body, critical analysis, and political theories in innovative ways. While affect theory remains a dynamic field, it underscores the importance of understanding how emotions and feelings shape human experiences and societal dynamics. At its core, affect is the force connecting the body and sensation with the external world.
+Since the 1990s, there has been a shift in cultural theory and criticism towards a focus on affect. Now known as ‘the affective turn,’ scholars in the humanities and social sciences have increasingly focused on studying emotions and feelings as legitimate objects of inquiry. These approaches intertwine theories concerning subjectivity, the body, critical analysis, and political theories in innovative ways. While affect theory remains a dynamic field, it underscores the importance of understanding how emotions and feelings shape human experiences and societal dynamics. At its core, affect is the force connecting the body and sensation with the external world.
 
-Projects within the affective turn invoke the language and metaphor of 'the archive' while focusing on issues that pertain to archival concerns in social justice paradigms, such as representation, identity, bodies, accountability, collective memory, and community empowerment. While these projects may not directly engage with archives as traditionally defined in archival studies, they provide valuable insights, theoretical frameworks, and approaches that can contribute significantly to discussions within the archival field and foster interdisciplinary exchange.
+Projects within the affective turn invoke the language and metaphor of ‘the archive’ while focusing on issues that pertain to archival concerns in social justice paradigms, such as representation, identity, bodies, accountability, collective memory, and community empowerment. While these projects may not directly engage with archives as traditionally defined in archival studies, they provide valuable insights, theoretical frameworks, and approaches that can contribute significantly to discussions within the archival field and foster interdisciplinary exchange.
 
 **Sources and Additional Resources:**
 
 Cheng, J.-F., Juhasz, A., & Shahani, N. (Eds.). (2020). _AIDS and the distribution of crises_. Duke University Press.
+
+Cifor, M. (2016). "Affecting relations: Introducing affect theory to archival discourse." _Archival Science_, _16_(1), 7–31. https://doi.org/10.1007/s10502-015-9261-5
 
 Cifor, M. (2022). _Viral cultures: Activist archiving in the age of AIDS_. University of Minnesota Press.
 
@@ -47,7 +49,7 @@ Jolivétte, A. (2016). _Indian Blood: HIV and Colonial Trauma in San Francisco�
 
 Juhasz, A., & Kerr, T. (2022). _We are having this conversation now: The times of AIDS cultural production_. Duke University Press.
 
-Lowery, J. (2024). _It was vulgar and it was beautiful: How aids activists used art to fight a pandemic_. Bold Type Books.
+Lowery, J. (2024). _It was vulgar and it was beautiful: How AIDS activists used art to fight a pandemic_. Bold Type Books.
 
 Reed, T. V. (2019). ACTing UP against AIDS: The (Very) Graphic Arts in a Moment of Crisis. In _The art of protest: Culture and activism from the Civil Rights Movement to the present_ (Second edition). University of Minnesota Press.
 
